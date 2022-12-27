@@ -9,4 +9,6 @@ require_relative 'Helpers/notation_translation_helper'
 
 
 module ExtendedChess
+  #interface = Interface.new()
+  #interface.start()
 end
